@@ -5,15 +5,15 @@ AngularJS Utah Meetup Code of Conduct
 
 The AngularJS Utah Meetup believes our community should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, disability, ethnicity, or religion.
 
-This code of conduct outlines our expectations for participant behavior. We invite all sponsors, volunteers, speakers, attendees, vendors, and other participants to help us realize a safe and positive conference experience for everyone.
+This code of conduct outlines our expectations for participant behavior. We invite all sponsors, volunteers, speakers, attendees, vendors, and other participants to help us realize a safe and positive meetup experience for everyone.
 
 ## Scope
 
-We expect all conference participants (sponsors, volunteers, speakers, attendees, vendors, and other guests) to abide by this code of conduct at all meetup venues and meetup-related social events.
+We expect all meetup participants (sponsors, volunteers, speakers, attendees, vendors, and other guests) to abide by this code of conduct at all meetup venues and meetup-related social events.
 
 ## Expected Behavior
 
-* **Be welcoming**. This is an all-inclusive environment where you’re likely to meet people from different types of backgrounds with different points of view and even different programming languages. Everyone should feel welcome at our conference regardless of their technical knowledge or years of experience.
+* **Be welcoming**. This is an all-inclusive environment where you’re likely to meet people from different types of backgrounds with different points of view and even different programming languages. Everyone should feel welcome at our meetup regardless of their technical knowledge or years of experience.
 * **Be respectful**, considerate and collaborative. Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one. Help us make this a diverse meetup where people can collaborate and share ideas without fear of backlash or ridicule.
 * **Be careful in the words that you choose**. We are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren’t acceptable. This includes, but is not limited to:
   * Violent threats or language directed against another person.
@@ -48,7 +48,7 @@ If the matter is especially urgent, please call/contact any of these individuals
 * **Matt Winchester**, Organizer
 * **Jason Waters**, Organizer
 
-Meetup organizers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+Meetup organizers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the meetup. We value your attendance.
 
 If you are subject to unacceptable behavior, notice that someone else is being subject to unacceptable behavior, or have any other concerns, please notify any organizer, which can do via:
 
